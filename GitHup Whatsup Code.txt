@@ -15,3 +15,5 @@ Author : Ethayathulla
 6. Adding the audio call feature
 
 7. Adding the video call feature
+
+8. Adding the status so that user can play train games
